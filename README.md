@@ -33,8 +33,8 @@ If you want to contribute to this project, follow these steps:
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/IngAamira/gifs-app.git`
-2. Navigate to the directory: `cd todoapp`
+1. Clone this repository: `git clone https://github.com/IngAamira/todo-app.git`
+2. Navigate to the directory: `cd todo-app`
 3. Install dependencies: `npm install`
 4. Start the application: `ng serve`
 
